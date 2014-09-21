@@ -1,0 +1,12 @@
+*.userprefs
+*.suo
+*.user
+packages/
+FriUrnik/obj/
+FriUrnik/bin/
+FriUrnik.Android/obj/
+FriUrnik.Android/bin/
+FriUrnik.iOS/obj/
+FriUrnik.iOS/bin/
+FriUrnik.WinPhone/obj/
+FriUrnik.WinPhone/Bin/
