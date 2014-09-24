@@ -1,0 +1,80 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+VisualStudioVersion = 12.0.30516.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriUrnik.WinPhone", "FriUrnik.WinPhone\FriUrnik.WinPhone.csproj", "{79BA9588-00B7-4F68-8C44-9C8D5EFBD580}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriUrnik.iOS", "FriUrnik.iOS\FriUrnik.iOS.csproj", "{81DFB849-6431-4DB5-9076-04FCF7C105C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriUrnik.Android", "FriUrnik.Android\FriUrnik.Android.csproj", "{9C8B8AE6-0705-4F58-A19D-F073B47C0E80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriUrnik", "FriUrnik\FriUrnik.csproj", "{6D343FF7-008F-4A9C-8868-5C3A9B00EE75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D343FF7-008F-4A9C-8868-5C3A9B00EE75}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{6D343FF7-008F-4A9C-8868-5C3A9B00EE75}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{6D343FF7-008F-4A9C-8868-5C3A9B00EE75}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{6D343FF7-008F-4A9C-8868-5C3A9B00EE75}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{79BA9588-00B7-4F68-8C44-9C8D5EFBD580}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{79BA9588-00B7-4F68-8C44-9C8D5EFBD580}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{79BA9588-00B7-4F68-8C44-9C8D5EFBD580}.Debug|Mixed Platforms.Deploy.0 = Debug|x86
+		{79BA9588-00B7-4F68-8C44-9C8D5EFBD580}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{79BA9588-00B7-4F68-8C44-9C8D5EFBD580}.Release|Mixed Platforms.Build.0 = Release|x86
+		{79BA9588-00B7-4F68-8C44-9C8D5EFBD580}.Release|Mixed Platforms.Deploy.0 = Release|x86
+		{81DFB849-6431-4DB5-9076-04FCF7C105C3}.Debug|Mixed Platforms.ActiveCfg = Debug|iPhoneSimulator
+		{81DFB849-6431-4DB5-9076-04FCF7C105C3}.Debug|Mixed Platforms.Build.0 = Debug|iPhoneSimulator
+		{81DFB849-6431-4DB5-9076-04FCF7C105C3}.Release|Mixed Platforms.ActiveCfg = Release|iPhoneSimulator
+		{81DFB849-6431-4DB5-9076-04FCF7C105C3}.Release|Mixed Platforms.Build.0 = Release|iPhoneSimulator
+		{9C8B8AE6-0705-4F58-A19D-F073B47C0E80}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{9C8B8AE6-0705-4F58-A19D-F073B47C0E80}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{9C8B8AE6-0705-4F58-A19D-F073B47C0E80}.Debug|Mixed Platforms.Deploy.0 = Debug|Any CPU
+		{9C8B8AE6-0705-4F58-A19D-F073B47C0E80}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{9C8B8AE6-0705-4F58-A19D-F073B47C0E80}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{9C8B8AE6-0705-4F58-A19D-F073B47C0E80}.Release|Mixed Platforms.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = FriUrnik.Android\FriUrnik.Android.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = VisualStudio
+		$1.inheritsScope = text/plain
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.IndentSwitchBody = True
+		$2.IndentBlocksInsideExpressions = True
+		$2.AnonymousMethodBraceStyle = NextLine
+		$2.PropertyBraceStyle = NextLine
+		$2.PropertyGetBraceStyle = NextLine
+		$2.PropertySetBraceStyle = NextLine
+		$2.EventBraceStyle = NextLine
+		$2.EventAddBraceStyle = NextLine
+		$2.EventRemoveBraceStyle = NextLine
+		$2.StatementBraceStyle = NextLine
+		$2.ElseNewLinePlacement = NewLine
+		$2.CatchNewLinePlacement = NewLine
+		$2.FinallyNewLinePlacement = NewLine
+		$2.WhileNewLinePlacement = DoNotCare
+		$2.ArrayInitializerWrapping = DoNotChange
+		$2.ArrayInitializerBraceStyle = NextLine
+		$2.BeforeMethodDeclarationParentheses = False
+		$2.BeforeMethodCallParentheses = False
+		$2.BeforeConstructorDeclarationParentheses = False
+		$2.NewLineBeforeConstructorInitializerColon = NewLine
+		$2.NewLineAfterConstructorInitializerColon = SameLine
+		$2.BeforeDelegateDeclarationParentheses = False
+		$2.NewParentheses = False
+		$2.SpacesBeforeBrackets = False
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
